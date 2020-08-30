@@ -1,3 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome
 
-[Link](https://drawgon.github.io/) and ![Image](https://drawgon.github.io/avatar.png)
+Work in progress, soon...
+
+[Link](![Image](https://drawgon.github.io/avatar.png))
