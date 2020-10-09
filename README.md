@@ -1,6 +1,6 @@
 ## Welcome
 
-[![Image](https://drawgon.github.io/avatar.png)](https://drawgon.github.io/)
+[![Image](https://drawgon.github.io/img/avatar-v1b.png)](https://drawgon.github.io/)
 
 ## My CHallenges
 
